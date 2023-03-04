@@ -18,5 +18,6 @@ Here the Javascript browser client uses the Web3.js library and MetaMask Wallet 
 2. Where you get paid for submitting your Captcha.  In this case a Server based service accepts the Capcha, validates it and sends Payment via a Geth Node residing on the same server. At the time of submission we were having trouble syncronizing the Geth wallet with the network. So, we removed this option from the UI.
 
 
+You can try the app at:
 
-
+https://razd.ai/ethdenver.raz
